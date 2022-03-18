@@ -5,7 +5,8 @@
 # Meeting
 [1] 2022-03-10  
 
-              앞으로의 스터디 방향과, 뉴스토픽분류 대회를 하기로 결정했습니다. https://dacon.io/competitions/official/235747/overview/description
+              앞으로의 스터디 방향과, 뉴스토픽분류 대회를 하기로 결정했습니다. 
+              https://dacon.io/competitions/official/235747/overview/description
 
 [2] 2022-03-17
 
