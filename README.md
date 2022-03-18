@@ -3,7 +3,6 @@
 
 # Team Member
 
-![eljueves](https://user-images.githubusercontent.com/100916323/159009528-78458e8b-1c45-490a-b4c2-9f99c9d23e17.svg)
 
 
 ##  🍎 KaggleDACON Study 커리큘럼
