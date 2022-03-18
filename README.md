@@ -3,7 +3,6 @@
 
 # Team Member
 
-⚡ 방수민
 
 
 ##  🍎 KaggleDACON Study 커리큘럼
