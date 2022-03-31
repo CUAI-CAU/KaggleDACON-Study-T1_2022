@@ -13,7 +13,7 @@
 | 2주차 | 3/17 | 양방향 LSTM과 Okt 리뷰, 다음 대회 선정.  https://dacon.io/competitions/official/235670/overview/description |
 | 3주차 | 3/24 | 참여하기로 한 공모전 데이터 분석 & 앞으로의 방향. https://data.kostat.go.kr/sbchome/contents/cntPage.do?cntntsId=CNTS_000000000000575&curMenuNo=OPT_09_03_00_0
 | 4주차 | 3/31 |  |
-| 5주차 |  |  |
+| 5주차 | 4/8  |
 | 6주차 |  |  |
 | 7주차 |  |  |
 | 8주차 |  |  |
